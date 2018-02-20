@@ -1,3 +1,3 @@
 # test1
-this mohammad shkokani 
+this is mohammad shkokani 
 trying to learn angular JS 
